@@ -1,10 +1,11 @@
+import pygame as pygame
 import random
 import pygame
 import math
 import sys
 
 """ENTER YOUR UF-ID BELOW"""
-rng_seed = 12345678
+rng_seed = 17851999
 
 random.seed(rng_seed)
 
